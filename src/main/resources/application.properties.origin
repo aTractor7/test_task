@@ -8,3 +8,5 @@ spring.datasource.password=
 spring.jpa.properties.hibernate.show_sql=true
 
 spring.mvc.hiddenmethod.filter.enabled=true
+
+validation.user.min_age = 18
